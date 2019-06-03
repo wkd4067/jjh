@@ -12,7 +12,7 @@
 [데이터보기](https://github.com/wkd4067/jjh/blob/master/%EB%B2%94%EC%A3%84%EB%B0%9C%EC%83%9D%EC%8B%9C%EA%B0%84.csv)
 
 ## 소스
-* [링크로 소스 내용 보기](https://github.com/cybermin/python2019/blob/master/tes.py) 
+* [링크로 소스 내용 보기](https://github.com/wkd4067/jjh/blob/master/5555.py)
 
 * 코드 삽입
 import pandas as pd
