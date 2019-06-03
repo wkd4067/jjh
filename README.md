@@ -34,10 +34,12 @@ df4=df1.mean(axis=0)
 df5=pd.to_numeric(df2,errors='coerce')
 df6=df5.iloc[1:9]
 df7=df3.mean(axis=0)
+print(df4)
 df4.plot(kind='bar')
+print(df6)
 df6.plot(kind='bar')
+print(df7)
 df7.plot(kind='bar')
-
 
 
 
